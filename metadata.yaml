@@ -1,0 +1,28 @@
+_repo: En-KabylieVoyage-d-une-Parisienne-au-Djurjura_15434
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vilbort, J. (Joseph)
+    alias: Vilbort, Joseph
+    birthdate: 1829
+    deathdate: 1911
+    gutenberg_agent_id: '6052'
+    url: http://www.gutenberg.org/2009/agents/6052
+description: ''
+gutenberg_bookshelf: FR Voyages et pays
+gutenberg_issued: '2005-03-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15434'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kabylia (Algeria) -- Description and travel'
+- !lcc 'DT'
+title: 'En Kabylie: Voyage d''une Parisienne au Djurjura'
+url: http://www.gutenberg.org/ebooks/15434
